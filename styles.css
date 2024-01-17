@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+th{
+	background-color:#e81515;
+	text-align:left;
+}
+#clr{
+	background-color:#d98080;
+	
+}
+#cls{
+	background-color:#edcccc;
+}
+#cvr{
+	background-color:#e3dede;
+}
+#cell{
+	text-align:right;
+}
+#cell1{
+	text-align:right;
+}
+#cell3{
+	text-align:right;
+}
